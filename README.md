@@ -32,7 +32,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/HackStyx/PathFinder.git
+    git clone https://github.com/Innov8Infinity/PathFinder.git
     cd PathFinder
     ```
 
@@ -106,4 +106,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 If you have any questions, suggestions, or want to contribute to this project, please feel free to reach :
-- [Prince](https://github.com/hackstyx)
+- [Innov8Infinity]()
